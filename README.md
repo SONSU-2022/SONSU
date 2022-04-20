@@ -7,7 +7,7 @@ We are developing a sign language eduacation program 'SONSU'.
 
 
 ## tool
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=FFFFFF"/>
 
 ##reference
 http://journal.dcs.or.kr/_PR/view/?aidx=29041&bidx=2548
