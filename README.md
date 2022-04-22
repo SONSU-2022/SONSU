@@ -13,9 +13,7 @@ We are developing a sign language eduacation program 'SONSU'.
 <!-- 공식 로고 색상과 정확한 로고 이름 모아보는 사이트 : https://simpleicons.org/ -->
 <!-- <img src="https://img.shields.io/badge/이름-색상코드?style=flat&logo=로고명&logoColor=FFFFFF"/> -->
 
-<img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=colab&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=colab&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=FFFFFF"/>
 
 
 ## DEVICES
