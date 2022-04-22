@@ -9,6 +9,7 @@ We are developing a sign language eduacation program 'SONSU'.
 
 ## tool
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/anaconda-61DAFB?style=flat&logo=react&logoColor=#44A833"/>
 
 ## reference
 http://journal.dcs.or.kr/_PR/view/?aidx=29041&bidx=2548
