@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=SONSU%20&fontSize=90)
-# Hello, We are COBEE!👋
+# Hello, We are COBEE!👋 Made 'SONSU'
 
 We are developing a sign language eduacation program 'SONSU'.
 
