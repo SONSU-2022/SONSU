@@ -18,6 +18,12 @@ PC, Smart Phone, Webcam
 ## Contact
 [![](https://img.shields.io/badge/-gmail-grey?logo=gmail)](mailto:"teamcobee@gmail.com")
 
+## Members
+#### 🌟Kim Mi Seo 
+#### 🌟Yoo Moon Hee
+#### 🌟Jang Ji Hyeon
+#### 🌟Choi Jeong Yoon
+
 ## References
 http://journal.dcs.or.kr/_PR/view/?aidx=29041&bidx=2548
 
