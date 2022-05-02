@@ -33,5 +33,8 @@ PC, Smart Phone, Webcam
 ## References
 [딥러닝 기반 OpenPose를 이용한 한국 수화 동작 인식에 관한 연구](http://journal.dcs.or.kr/_PR/view/?aidx=29041&bidx=2548)
 
+## Data References
+https://aihub.or.kr/aidata/7965
+
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer)
