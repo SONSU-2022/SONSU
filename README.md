@@ -35,7 +35,7 @@ PC, Smart Phone, Webcam
 
 ## Data References
 ### aihub https://aihub.or.kr/aidata/7965
-#### original https://sldict.korean.go.kr/front/main/main.do#
+### original https://sldict.korean.go.kr/front/main/main.do
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer)
