@@ -26,6 +26,8 @@ PC💻, Smart Phone, Webcam
 ## Contact
 [![](https://img.shields.io/badge/-gmail-grey?logo=gmail)](mailto:"teamcobee@gmail.com")
 
+<br/>
+
 ## Members
 #### 🌟Kim Mi Seo 
 #### 🌟Yoo Moon Hee
