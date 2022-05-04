@@ -19,7 +19,7 @@ We are developing a sign language eduacation program **'SONSU'**.
 <br/>
 
 ## Devices
-PC, Smart Phone, Webcam
+PC💻, Smart Phone, Webcam
 
 <br/>
 
