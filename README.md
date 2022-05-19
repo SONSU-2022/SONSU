@@ -32,7 +32,7 @@ PC💻, Smart Phone📱, Webcam
 
 ## Members
 #### 🌟Kim Mi Seo 
-#### 🌟Yoo Moon Hee
+#### 🌟Yoo Moon Hee (@muunioi)
 #### 🌟Jang Ji Hyeon
 #### 🌟Choi Jeong Yoon
 
