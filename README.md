@@ -31,10 +31,10 @@ PC💻, Smart Phone📱, Webcam
 <br/>
 
 ## Members
-#### 🌟Kim Mi Seo 
+#### 🌟Kim Mi Seo (@seomiii)
 #### 🌟Yoo Moon Hee (@muunioi)
-#### 🌟Jang Ji Hyeon
-#### 🌟Choi Jeong Yoon
+#### 🌟Jang Ji Hyeon (@jihyeonjjang)
+#### 🌟Choi Jeong Yoon (@jeong-yooon)
 
 <br/>
 
