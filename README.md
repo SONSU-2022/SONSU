@@ -19,7 +19,7 @@ We are developing a sign language eduacation program **'SONSU'**.
 <img src="https://img.shields.io/badge/Intellij IDEA-000000?style=flat&logo=Intellij IDEA&logoColor=FFFFFF"/>
 
 <br/>
-  
+
 ## Devices
 PC💻, Smart Phone📱, Smart Pad, Webcam
 
