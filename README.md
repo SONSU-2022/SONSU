@@ -21,7 +21,7 @@ We are developing a sign language eduacation program **'SONSU'**.
 <br/>
 
 ## Devices
-PC💻, Smart Phone📱, Smart Pad, Webcam
+PC💻, Smart Phone📱, Smart Pad, Webcam📽️
 
 <br/>
 
