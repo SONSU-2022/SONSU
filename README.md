@@ -41,6 +41,8 @@ PC💻, Smart Phone📱, Smart Pad, Webcam📽️
 ## References
 [딥러닝 기반 OpenPose를 이용한 한국 수화 동작 인식에 관한 연구](http://journal.dcs.or.kr/_PR/view/?aidx=29041&bidx=2548)
 
+<br/>
+
 ## Data References
 #### aihub https://aihub.or.kr/aidata/7965
 #### original https://sldict.korean.go.kr/front/main/main.do
