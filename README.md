@@ -31,7 +31,7 @@ PC💻, Smart Phone📱, Smart Pad, Webcam📽️
 <br/>
 
 ## Members
-#### 🌟Kim Mi Seo (<a href="https://github.com/seomiii" style="text-decoration:none>@seomiii</a>)
+#### 🌟Kim Mi Seo ( <a href="https://github.com/seomiii">@seomiii</a> )
 #### 🌟Yoo Moon Hee (<a href="https://github.com/muunioi" style="text-decoration:none>@muunioi</a>)
 #### 🌟Jang Ji Hyeon (<a href="https://github.com/jihyeonjjang" style="text-decoration:none>@jihyeonjjang</a>)
 #### 🌟Choi Jeong Yoon (<a href="https://github.com/jeong-yooon" style="text-decoration:none>@jeong-yooon</a>)
