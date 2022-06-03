@@ -21,7 +21,7 @@ We are developing a sign language eduacation program **'SONSU'**.
 <br/>
 
 ## Devices
-PC💻, Smart Phone📱, Smart Pad, Webcam📽️ !!
+PC💻, Smart Phone📱, Smart Pad, Webcam📽️
 
 <br/>
 
@@ -31,10 +31,10 @@ PC💻, Smart Phone📱, Smart Pad, Webcam📽️ !!
 <br/>
 
 ## Members
-#### 🌟Kim Mi Seo (@seomiii)
-#### 🌟Yoo Moon Hee (@muunioi)
-#### 🌟Jang Ji Hyeon (@jihyeonjjang)
-#### 🌟Choi Jeong Yoon (@jeong-yooon)
+#### 🌟Kim Mi Seo (<a href="https://github.com/seomiii" style="text-decoration:none>@seomiii</a>)
+#### 🌟Yoo Moon Hee (<a href="https://github.com/muunioi" style="text-decoration:none>@muunioi</a>)
+#### 🌟Jang Ji Hyeon (<a href="https://github.com/jihyeonjjang" style="text-decoration:none>@jihyeonjjang</a>)
+#### 🌟Choi Jeong Yoon (<a href="https://github.com/jeong-yooon" style="text-decoration:none>@jeong-yooon</a>)
 
 <br/>
 
