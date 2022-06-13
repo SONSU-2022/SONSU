@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=SONSU%20&fontSize=90)
 # Hello, We are COBEE!👋
 
-We are developing a sign language eduacation program **'SONSU'**. 
+We are developing a sign language eduacation program **'SONSU'**.  
 
 <!-- 공식 로고 색상과 정확한 로고 이름 모아보는 사이트 : https://simpleicons.org/ -->
 <!-- <img src="https://img.shields.io/badge/이름-색상코드?style=flat&logo=로고명&logoColor=FFFFFF"/> --> 
