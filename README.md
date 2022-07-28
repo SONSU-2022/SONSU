@@ -31,10 +31,10 @@ PC💻, Smart Phone📱, Smart Pad, Webcam📽️
 <br/>
 
 ## Members
-#### 🌟Kim Mi Seo (<a href="https://github.com/seomiii">@seomiii</a>)
-#### 🌟Yoo Moon Hee (<a href="https://github.com/muunioi">@muunioi</a>)
-#### 🌟Jang Ji Hyeon (<a href="https://github.com/jihyeonjjang">@jihyeonjjang</a>)
-#### 🌟Choi Jeong Yoon (<a href="https://github.com/jeong-yooon">@jeong-yooon</a>)
+#### 🌟Kim Mi Seo (<a href="https://github.com/seomiii">@seomiii</a>) | Frontend, Deep Learning
+#### 🌟Yoo Moon Hee (<a href="https://github.com/muunioi">@muunioi</a>) | Backend, Design
+#### 🌟Jang Ji Hyeon (<a href="https://github.com/jihyeonjjang">@jihyeonjjang</a>) | Android, Deep Learning
+#### 🌟Choi Jeong Yoon (<a href="https://github.com/jeong-yooon">@jeong-yooon</a>) | Frontend, Data Set
 
 <br/>
 
