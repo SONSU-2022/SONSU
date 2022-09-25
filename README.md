@@ -17,7 +17,7 @@ We are developing a sign language eduacation program **'SONSU'**.
 ## Tools
 <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=Google Colab&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Intellij IDEA-000000?style=flat&logo=Intellij IDEA&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/AndroidStudio IDEA-000000?style=flat&logo=Intellij IDEA&logoColor=3DDC84"/>
+<img src="https://img.shields.io/badge/AndroidStudio IDEA-000000?style=flat&logo=AndroidStudio IDEA&logoColor=3DDC84"/>
  
  
 <br/>
