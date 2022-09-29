@@ -46,8 +46,8 @@ PC💻, Smart Phone📱, Smart Pad, Webcam📽️
 <br/>
 
 ## Data References
-#### aihub https://aihub.or.kr/aidata/7965
-#### original https://sldict.korean.go.kr/front/main/main.do
-#### other http://vod.jbedu.kr/EgovPageLinkSub.do?menuNo=4000000&menuNoSub=4042500&link=forward%3A%2FvodMedia%2FloveHandDesc.do
+#### aihub : https://aihub.or.kr/aidata/7965
+#### original : https://sldict.korean.go.kr/front/main/main.do
+#### other : http://vod.jbedu.kr/EgovPageLinkSub.do?menuNo=4000000&menuNoSub=4042500&link=forward%3A%2FvodMedia%2FloveHandDesc.do
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer)
