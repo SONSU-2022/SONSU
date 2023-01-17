@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=SONSU%20&fontSize=90)
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=SONSU%20&fontSize=90) -->
 # Hello, We are COBEE!👋
 
 We are developing a sign language eduacation program **'SONSU'**.   
@@ -57,4 +57,4 @@ PC💻, Smart Phone📱, Smart Pad, Webcam📽️
 #### original : https://sldict.korean.go.kr/front/main/main.do
 #### other : http://vod.jbedu.kr/EgovPageLinkSub.do?menuNo=4000000&menuNoSub=4042500&link=forward%3A%2FvodMedia%2FloveHandDesc.do -->
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer)
+<!-- ![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer) -->
