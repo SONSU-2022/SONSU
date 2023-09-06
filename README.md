@@ -96,6 +96,7 @@ PC💻, Smart Phone📱, Smart Pad, Webcam📽️
 ## ✨ Performance
 - [덕성여자대학교 캡스톤디자인 경연대회 우수상 수상](https://youtu.be/Npx0fNAF2hg) 2023.01.11
 - [이브와 ICT멘토링 공모전 동상 수상](https://youtu.be/Ku01AV6JqrI) 2022.12.02
+- [디지털 콘텐츠 학회 논문 투고](http://journal.dcs.or.kr/_PR/view/?aidx=34798&bidx=3125) 2022.08.11
 
 <br/>  
 
