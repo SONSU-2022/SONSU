@@ -29,7 +29,6 @@ We are developing a sign language eduacation program **'SONSU'**.
 따라서 수어 교육을 필요로하는 사람들을 위해 딥러닝 기술에 기반한 수어 교육 프로그램으로 효과적인 교육 기회와 환경을 구축하고자 한다.
 
 ### Functional Description
-![홈화면](https://github.com/SONSU-2022/SONSU-2022/assets/102950984/e4e33daa-bf29-44d6-8920-8f599e015ad7)
 <br/> <br/> 
 ![수강하기 플로우](https://github.com/SONSU-2022/SONSU-2022/assets/102950984/35e60d9a-b16c-4409-8e4e-7baaa9101334)
 <br/> 
