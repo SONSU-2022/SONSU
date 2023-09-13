@@ -7,14 +7,17 @@
         margin : 0 auto;
     }
 </style> -->
-<br>
+
+<div align="center">
+<br/>
 <img class="logo" src="./Asset/logo-fin-02.png"  width=60%>
-<br>
-<h3>' 수어를 학습하고자 하는 모든 사람을 위한 수어 교육 플랫폼 '</h3>
+<br/>
+<h3>' 수어를 배우고 싶은 모든 사람을 위한 수어 교육 플랫폼 '</h3>
 <div>
 국립국어원의 한국 수어 사전의 영상자료를 바탕으로 수어를 익히고, 학습자의 손동작을 인식하여 동작의 정확도를 알 수 있는 교육환경을 제공하는 서비스 입니다.
 </div>
-<br>
+<br/>
+</div>
 
 ## 🤲 About
 
@@ -25,7 +28,7 @@
 > SONSU를 통해 수어를 익히고, 직접 따라해 보면서 보다 정확한 동작을 익혀보세요.
 >
 > 손으로 세상과 소통하는 수어교실, 여기는 **SONSU** 입니다.👋
-> <br>
+> <br/>
 
 ![KakaoTalk_20221113_153220426_04](https://user-images.githubusercontent.com/86819719/212887103-2a0d7b58-a001-41c5-8dc3-d2beec6e302f.png)
 
@@ -211,6 +214,7 @@
 <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=Google Colab&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Intellij IDEA-000000?style=flat&logo=Intellij IDEA&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=FFFFFF"/>
 
 <br/>
 
@@ -219,12 +223,13 @@
 | :---: | :---:| :---: | :---: | :---: |
 |Front-End & Deep Learning|Back-End & Design|Full-Stack & Deep Learning|Front-End & Data| Design |
 | [김미서](https://github.com/seomiii) | [유문희](https://github.com/muunioi) | [장지현](https://github.com/jihyeonjjang) | [최정윤](https://github.com/jeong-yooon) | [김지은](kze5453@naver.com) |
-<br>
+
+<br/>
 
 ## 🫰 협업 문화
 
 <details>
-<summary>[ Confluence ] 매주 3회 이상 회의 및 회의록 기록</summary>
+<summary><img src="https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=Confluence&logoColor=FFFFFF"/> 매주 3회 이상 회의 및 회의록 기록</summary>
 <div markdown="1">
 <p>
 <p>✅ 매주 3회 이상 회의를 진행하고, 회의록을 기록합니다.</p>
@@ -234,7 +239,7 @@
 </details>
 
 <details>
-<summary>[ Confluence ] 매주 3회 (수,목,토) 개인 스터디 및 기록</summary>
+<summary><img src="https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=Confluence&logoColor=FFFFFF"/> 매주 3회 (수,목,토) 개인 스터디 및 기록</summary>
 <div markdown="1">
 </p>
 <div>✅ 프로젝트 관련 스터디를 진행하고, 인증합니다.</div>
@@ -246,7 +251,7 @@
 </details>
 
 <details>
-<summary>[ Jira ] 매주 이슈 등록 및 진행상황 공유 </summary>
+<summary><img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=FFFFFF"/> 매주 이슈 등록 및 진행상황 공유 </summary>
 <div markdown="1">
 </p>
 <div>✅ 매주 월요일 회의에서 설정한 목표를 에픽으로 등록하고, 담당자를 할당하여 역할을 분담합니다.</div>
@@ -259,7 +264,7 @@
 </details>
 
 <details>
-<summary>[ Slack ] 의사소통 및 진행상황 공유 </summary>
+<summary><img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=FFFFFF"/> 의사소통 및 진행상황 공유 </summary>
 <div markdown="1">
 </p>
 <div>✅ 다양한 채널을 개설하여 목적에 맞게 소통합니다.</div>
