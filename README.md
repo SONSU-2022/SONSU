@@ -178,14 +178,13 @@
 ## ✨ Video
 
 [![Video Label](http://img.youtube.com/vi/G2csz38fCOE/0.jpg)](https://www.youtube.com/watch?v=G2csz38fCOE)
+
 <br/>
 
 ## 👍 How To Use
 
 <!-- <img src="./Asset/3-3. 서비스소개.png"> -->
 ![sonsu 이용방법 배경제거](https://github.com/SONSU-2022/SONSU-2022/assets/102950984/29fc504f-55e6-4efb-a533-3440b6f64fd4)
-
-<br/>
 
 ## 🫱 ERD
 
