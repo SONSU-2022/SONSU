@@ -220,7 +220,7 @@
 <div markdown="1">
 <p>
 <p>✅ 매주 3회 이상 회의를 진행하고, 회의록을 기록합니다.</p>
-<img src="./Asset/회의록.png">
+<img src="https://github.com/SONSU-2022/SONSU-2022/assets/86819719/868ba25a-8a59-46ff-b7e5-cd250a53e112">
 
 </div>
 </details>
@@ -232,8 +232,7 @@
 <div>✅ 프로젝트 관련 스터디를 진행하고, 인증합니다.</div>
 ✅ 프로젝트를 진행하고, 진행상황을 기록합니다.
 <p>
-
-<img src="./Asset/스터디.png">
+<img src="https://github.com/SONSU-2022/SONSU-2022/assets/86819719/404136f4-16f6-40b0-ba9e-1f4d297be7b7">
 </div>
 
 </details>
