@@ -187,6 +187,8 @@
 ## 🫱 ERD
 
 ## ✊ Architecture
+<img width="1000" alt="스크린샷 2023-09-06 오후 3 35 46" src="https://github.com/SONSU-2022/SONSU-2022/assets/102950984/011ae77a-eb04-4832-ba19-cdf2bf42e889">
+<br/>
 
 ## Skills
 
