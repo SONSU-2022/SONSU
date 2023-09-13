@@ -40,6 +40,8 @@
 - **`오답노트`**
   테스트에서 틀린 단어들을 모아 놓은 오답노트를 확인하고, 해당 단어 영상을 다시 볼 수 있습니다.
 
+<br/>
+
 ## 🙌 Detail
 
 <img src="./Asset/Group 267.png">
@@ -188,15 +190,20 @@
 ![sonsu 이용방법 배경제거](https://github.com/SONSU-2022/SONSU-2022/assets/102950984/2f4d73ce-bd6d-4cfb-b6b2-31acbe3c4fc5)
 
 ## 🫱 ERD
+![image](https://github.com/SONSU-2022/SONSU-2022/assets/65223360/b1e473bd-97c1-430d-97c9-379529a7a4d5)
+
+<br/>
 
 ## ✊ Architecture
 <img width="1000" alt="스크린샷 2023-09-06 오후 3 35 46" src="https://github.com/SONSU-2022/SONSU-2022/assets/102950984/011ae77a-eb04-4832-ba19-cdf2bf42e889">
+
 <br/>
 
 ## Skills
 
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Mysql-7F52FF?style=flat&logo=Mysql&logoColor=FFFFFF"/>
+
 <br/>
 
 ## Tools
@@ -204,6 +211,7 @@
 <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=Google Colab&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Intellij IDEA-000000?style=flat&logo=Intellij IDEA&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=FFFFFF"/>
+
 <br/>
 
 ## 🧑‍🤝‍🧑 팀원 소개
@@ -269,7 +277,8 @@
 - 2022 이브와 ICT 멘토링 공모전 본상 수상(동상, IT여성기업인협회장상)
 - 2022년 덕성여자대학교 캡스톤 디자인 경연대회 우수상 수상
 - [디지털콘텐츠학회 논문 게재(제 23권 제 11호, ‘딥러닝 기반 수어 교육 온라인 플랫폼 구현’, p.2147~p.2157)](http://journal.dcs.or.kr/_PR/view/?aidx=34798&bidx=3125)
-  <br/>
+
+   <br/>
 
 <!-- ## References
 [딥러닝 기반 OpenPose를 이용한 한국 수화 동작 인식에 관한 연구](http://journal.dcs.or.kr/_PR/view/?aidx=29041&bidx=2548) -->
