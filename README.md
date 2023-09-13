@@ -7,14 +7,16 @@
         margin : 0 auto;
     }
 </style> -->
+<div style="Text-align:center">
 <br>
 <img class="logo" src="./Asset/logo-fin-02.png"  width=60%>
 <br>
-<h3>' 수어를 학습하고자 하는 모든 사람을 위한 수어 교육 플랫폼 '</h3>
+<h3>' 수어를 배우고싶은 모든 사람을 위한 수어 교육 플랫폼 '</h3>
 <div>
 국립국어원의 한국 수어 사전의 영상자료를 바탕으로 수어를 익히고, 학습자의 손동작을 인식하여 동작의 정확도를 알 수 있는 교육환경을 제공하는 서비스 입니다.
 </div>
 <br>
+</div>
 
 ## 🤲 About
 
@@ -29,6 +31,8 @@
 
 ![KakaoTalk_20221113_153220426_04](https://user-images.githubusercontent.com/86819719/212887103-2a0d7b58-a001-41c5-8dc3-d2beec6e302f.png)
 
+<br/>
+
 ## 👐 Main Feat
 
 - **`따라하기`**
@@ -39,6 +43,8 @@
   사용자가 단계를 선택하여 테스트를 볼 수 있습니다.
 - **`오답노트`**
   테스트에서 틀린 단어들을 모아 놓은 오답노트를 확인하고, 해당 단어 영상을 다시 볼 수 있습니다.
+
+<br/>
 
 ## 🙌 Detail
 
@@ -175,9 +181,13 @@
 </tbody>
 </table> -->
 
+<br/>
+
 ## ✨ Video
 
 [![Video Label](http://img.youtube.com/vi/G2csz38fCOE/0.jpg)](https://www.youtube.com/watch?v=G2csz38fCOE)
+
+<br/>
 
 ## 👍 How To Use
 
@@ -185,6 +195,8 @@
 <br/>
 
 ## 🫱 ERD
+
+<br/>
 
 ## ✊ Architecture
 <img width="1000" alt="스크린샷 2023-09-06 오후 3 35 46" src="https://github.com/SONSU-2022/SONSU-2022/assets/102950984/011ae77a-eb04-4832-ba19-cdf2bf42e889">
@@ -194,6 +206,7 @@
 
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Mysql-7F52FF?style=flat&logo=Mysql&logoColor=FFFFFF"/>
+
 <br/>
 
 ## Tools
@@ -201,6 +214,7 @@
 <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=Google Colab&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Intellij IDEA-000000?style=flat&logo=Intellij IDEA&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=FFFFFF"/>
+
 <br/>
 
 ## 🧑‍🤝‍🧑 팀원 소개
@@ -215,11 +229,87 @@
 |                 Front-End & Deep Learning                  | Back-End & Design                                              | Full-Stack & Deep Learning                                     | Front-End & Data                                                | Front-End & Deep Learning |
 |            [김미서](https://github.com/seomiii)            | [유문희](https://github.com/muunioi)                           | [장지현](https://github.com/jihyeonjjang)                      | [최정윤](https://github.com/jeong-yooon)                        | [김지은]()                | -->
 
-<br>
+<br/>
 
 ## 🫰 협업 문화
+<!-- <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=Confluence&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=FFFFFF">  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=FFFFFF">  -->
 
 <details>
+<summary><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=FFFFFF"> 원활한 코드 공유 </summary>
+<div markdown="1">
+</p>
+<div>✅ 브랜치를 생성해 각자 독립적으로 개발을 진행합니다. </div>
+<div>✅ 코드가 꼬이지 않고 효율적으로 협업을 진행합니다.</div>
+<!-- <div>✅ 버전 관리에 용이합니다. </div> -->
+</p>
+<img src="./Asset/깃허브 브랜치.png">
+
+</div>
+</details>
+
+<details>
+<summary><img src="https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=Confluence&logoColor=FFFFFF"> 매주 3회 이상 회의 및 회의록 기록</summary>
+<div markdown="1">
+<p>
+<p>✅ 매주 3회 이상 회의를 진행하고, 회의록을 기록합니다.</p>
+<img src="https://github.com/SONSU-2022/SONSU-2022/assets/86819719/868ba25a-8a59-46ff-b7e5-cd250a53e112">
+
+</div>
+</details>
+
+<details>
+<summary><img src="https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=Confluence&logoColor=FFFFFF"> 매주 3회 (수,목,토) 개인 스터디 및 기록</summary>
+<div markdown="1">
+</p>
+<div>✅ 프로젝트 관련 스터디를 진행하고, 인증합니다.</div>
+✅ 프로젝트를 진행하고, 진행상황을 기록합니다.
+<p>
+<img src="https://github.com/SONSU-2022/SONSU-2022/assets/86819719/404136f4-16f6-40b0-ba9e-1f4d297be7b7">
+</div>
+
+</details>
+
+<details>
+<summary><img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=FFFFFF"> 매주 이슈 등록 및 진행상황 공유 </summary>
+<div markdown="1">
+</p>
+<div>✅ 매주 월요일 회의에서 설정한 목표를 에픽으로 등록하고, 담당자를 할당하여 역할을 분담합니다.</div>
+✅ 해당 에픽을 완료하면 상태를 변경하고, 진행상황을 공유할 수 있는 문서를 등록합니다. 
+</p>
+<img src="./Asset/jira1.png">
+<img src="./Asset/jira2.png">
+
+</div>
+</details>
+
+<details>
+<summary><img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=FFFFFF"> 의사소통 및 진행상황 공유 </summary>
+<div markdown="1">
+</p>
+<div>✅ 다양한 채널을 개설하여 목적에 맞게 소통합니다.</div>
+<div>✅ 개발 과정 중 발생하는 이슈 & 궁금한 점을 공유합니다.</div>
+<div>✅ 개인 스터디 이후 다른 팀원들이 간략하게 볼 수 있도록 요약하여 공유합니다. </div>
+✅ 비동기적 소통을 지향합니다. 
+</p>
+<img src="./Asset/slack.png">
+
+</div>
+</details>
+
+<details>
+<summary><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=FFFFFF">  프로젝트 총 정리 </summary>
+<div markdown="1">
+</p>
+<div>✅ 총 정리...</div>
+</p>
+<img src="./Asset/slack.png">
+
+</div>
+</details>
+
+<br/>
+
+<!-- <details>
 <summary>[ Confluence ] 매주 3회 이상 회의 및 회의록 기록</summary>
 <div markdown="1">
 <p>
@@ -266,7 +356,7 @@
 <img src="./Asset/slack.png">
 
 </div>
-</details>
+</details> -->
 
 ## 👍 성과
 
