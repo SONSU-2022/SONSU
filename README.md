@@ -277,13 +277,15 @@
 </div>
 </details>
 
+<br/>
+
 ## 👍 성과
 
 - 2022 이브와 ICT 멘토링 공모전 본상 수상(동상, IT여성기업인협회장상)
 - 2022년 덕성여자대학교 캡스톤 디자인 경연대회 우수상 수상
 - [디지털콘텐츠학회 논문 게재(제 23권 제 11호, ‘딥러닝 기반 수어 교육 온라인 플랫폼 구현’, p.2147~p.2157)](http://journal.dcs.or.kr/_PR/view/?aidx=34798&bidx=3125)
 
-   <br/>
+<br/>
 
 <!-- ## References
 [딥러닝 기반 OpenPose를 이용한 한국 수화 동작 인식에 관한 연구](http://journal.dcs.or.kr/_PR/view/?aidx=29041&bidx=2548) -->
