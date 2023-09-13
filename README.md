@@ -7,7 +7,7 @@
         margin : 0 auto;
     }
 </style> -->
-<br><br>
+<br>
 <img class="logo" src="./Asset/logo-fin-02.png"  width=60%>
 <br>
 <h3>' 수어를 학습하고자 하는 모든 사람을 위한 수어 교육 플랫폼 '</h3>
