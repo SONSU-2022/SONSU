@@ -204,6 +204,10 @@
 <br/>
 
 ## 🧑‍🤝‍🧑 팀원 소개
+|  ![image](https://avatars.githubusercontent.com/u/86819719)   | ![image](https://avatars.githubusercontent.com/u/65223360?v=4)     |   ![image](https://avatars.githubusercontent.com/u/76553061?v=4)  |  ![image](https://avatars.githubusercontent.com/u/102950984?v=4)    |  ![image](https://avatars.githubusercontent.com/u/102950984?v=4) |
+| :---: | :---:| :---: | :---: | :---: |
+|Front-End & Deep Learning|Back-End & Design|Full-Stack & Deep Learning|Front-End & Data| Design |
+| [김미서](https://github.com/seomiii) | [유문희](https://github.com/muunioi) | [장지현](https://github.com/jihyeonjjang) | [최정윤](https://github.com/jeong-yooon) | [김지은](https://github.com/jeong-yooon) |
 
 <!-- | ![image](https://avatars.githubusercontent.com/u/86819719) | ![image](https://avatars.githubusercontent.com/u/65223360?v=4) | ![image](https://avatars.githubusercontent.com/u/76553061?v=4) | ![image](https://avatars.githubusercontent.com/u/102950984?v=4) |                           | ![image](https://avatars.githubusercontent.com/u/102950984?v=4) |
 | :--------------------------------------------------------: | -------------------------------------------------------------- | -------------------------------------------------------------- | --------------------------------------------------------------- | ------------------------- | --------------------------------------------------------------- |
